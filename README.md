@@ -19,7 +19,8 @@ Bilişim sistemleri mühendisliği son sınıf öğrencisiyim. Web geliştirme a
 
 ## Eğitim
 
-- **Kocaeli Üniversitesi** - Bilişim Sistemleri Mühendisliği (3.00/4)
+- **Kocaeli Üniversitesi** - Bilişim Sistemleri Mühendisliği
+*Not Ortalaması: 3.00/4*
 
 ## İş Deneyimi
 
